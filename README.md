@@ -3,5 +3,6 @@ You can use this to easily deploy an ERC-721 smart contract onto the Sepolia tes
 I'm uploading this because I had to go through the effort of making it myself as part of testing other code I am writing and it was a time sink.\
 You just have to run: 
 ```
+truffle compile
 truffle migrate --network sepolia
 ```
